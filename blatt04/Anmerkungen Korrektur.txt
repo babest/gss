@@ -1,0 +1,26 @@
+Question 1: Scheduling-Algorithmen:   7.0 Points (max. 11)
+
+Feedback:
+
+a) Zum Zeitpunkt t=9 hätte P4 an Stelle von P2 gewählt werden müssen, da 2 > 9/5. Ansonsten sind die getroffenen Entscheidungen jedoch korrekt.
+
+b) Im Gegensatz zur Lösung von a) wurde hier leider die initiale Prozesswechselzeit nicht berücksichtigt. Daher ist die Reihenfolge nicht korrekt. Außerdem wird die letzte Prozesswechselzeit nicht benötigt, da hier von P5 zu P5 "gewechselt" wird.
+
+Question 2: Echtzeit & Mehrprozessor-Scheduling:   12.0 Points (max. 20)
+
+Feedback:
+
+a) Richtig.
+
+b) Bis t = 8 korrekt, danach wurde hier ohne Verdrängung gearbeitet. RMS ist aber ein verdrängendes Scheduling-Verfahren.
+Auch ohne Verdrängung ist die Lösung ab t=7 fehlerhaft. Hier kann B1 wieder ausgeführt werden.
+
+c) Richtig. Das Raster ist ungünstig gewählt (Zeitachse passt nicht zum Bild).
+
+Question 3: Prioritätsinversion:   8.5 Points (max. 9)
+
+Feedback:
+
+Schöne Lösung. Ein kleiner Fehler hat sich aber eingeschlichen. Ihr seid bei t=120 mit M angefangen. Dieses sollte allerdings bei t=115 liegen und dann sieht man am Ende auch, dass B noch bei t=165 aktiv wird. Trotzdem sehr gute Lösung und schöne Darstellung!
+
+You have got 27.5 of 40 points in total (69%).
